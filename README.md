@@ -7,6 +7,11 @@
 * User can CRUD gift (update and delete under conditions).
 * User can CREATE a trade by sending an offer, UPDATE received offer's status, READ sent offer and received offer.
 
+<b>Technologies used</b> : 
+<br>
+HTML, JS, CSS, MongoDB, Express, Node, Cloudinary
+<br>
+
 <a href="https://re-gift.herokuapp.com/">DEMO</a>
 
 You can use these credentials to trade : 
