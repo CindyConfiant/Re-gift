@@ -1,6 +1,6 @@
 # RE/GIFT
 
-## An app to trade gifts
+## A multi-pages web app to trade gifts
 
 * Everyone can see gift's category, picture, name and brand.
 * To see gift's description, owner's name/city/ZIP, one have to signup, or login.
