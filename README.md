@@ -8,8 +8,8 @@ HTML, JS, CSS, MongoDB, Express, Node, Cloudinary
 ## Details
 * Everyone can see gift's category, picture, name and brand.
 * To see gift's description, owner's name/city/ZIP, one have to signup, or login.
-* User can CRUD gift (update and delete under conditions).
-* User can CREATE a trade by sending an offer, UPDATE received offer's status, READ sent offer and received offer.
+* Logged in user can CRUD gift (update and delete under conditions).
+* Logged in user can CREATE a trade by sending an offer, UPDATE received offer's status, READ sent offer and received offer.
 
 ## Give it a try 
 <a href="https://re-gift.herokuapp.com/">Click to trade</a>
@@ -51,5 +51,3 @@ You can use these credentials:
 
 ## Trades page
 ![Trades page](https://user-images.githubusercontent.com/87827626/159176401-c2fca3d2-6de9-4245-ae08-936dfd8b79f3.png)
-
-
