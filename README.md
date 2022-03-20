@@ -22,7 +22,7 @@ You can use these credentials:
 ![Homepage2](https://user-images.githubusercontent.com/87827626/159175054-50624f30-91f5-4140-9e52-5b620105630c.png)
 
 ## Gifts by category
-![categories](https://user-images.githubusercontent.com/87827626/159175358-7dda5109-c7da-4346-8825-bab363e792db.png)
+![Categories](https://user-images.githubusercontent.com/87827626/159178420-c8bfb32c-7bad-433a-af32-13c0ae896be8.png)
 
 ## Books
 ![Books](https://user-images.githubusercontent.com/87827626/159175381-ac2d9468-708e-47f7-b882-f22daf9b9b76.png)
