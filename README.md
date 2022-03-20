@@ -21,8 +21,8 @@ You can use these credentials:
 ## Homepage
 ![Homepage2](https://user-images.githubusercontent.com/87827626/159175054-50624f30-91f5-4140-9e52-5b620105630c.png)
 
-## Gifts by category
-![Categories](https://user-images.githubusercontent.com/87827626/159178420-c8bfb32c-7bad-433a-af32-13c0ae896be8.png)
+## Categories
+![Categories](https://user-images.githubusercontent.com/87827626/159178521-4e6e8100-107d-4b49-8030-a3dc0f2db679.png)
 
 ## Books
 ![Books](https://user-images.githubusercontent.com/87827626/159175381-ac2d9468-708e-47f7-b882-f22daf9b9b76.png)
