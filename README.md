@@ -19,35 +19,37 @@ You can use these credentials:
 * email : test@mail.com   password: TestTest1
 
 ## Homepage
-![Homepage2](https://user-images.githubusercontent.com/87827626/159175054-50624f30-91f5-4140-9e52-5b620105630c.png)
+![Homepage](https://user-images.githubusercontent.com/87827626/159371098-10bd87a0-daeb-419f-953e-d0a77683d55e.png)
 
 ## Categories
-![Categories](https://user-images.githubusercontent.com/87827626/159178521-4e6e8100-107d-4b49-8030-a3dc0f2db679.png)
+![Categories](https://user-images.githubusercontent.com/87827626/159371128-d8de502b-3d0d-471e-b27d-c83e1984cfa8.png)
 
 ## Books
-![Books](https://user-images.githubusercontent.com/87827626/159175381-ac2d9468-708e-47f7-b882-f22daf9b9b76.png)
+![Books](https://user-images.githubusercontent.com/87827626/159371176-78971cdc-1720-4c51-9179-cbe75b6a2b38.png)
 
 ## Boxes
-![Boxes](https://user-images.githubusercontent.com/87827626/159175657-d25b42f4-c84e-49fb-8215-eced4e5e9558.png)
+![Boxes](https://user-images.githubusercontent.com/87827626/159371194-2bfde681-b025-47be-87b6-909b9c021301.png)
 
 ## Fragances
-![Fragances](https://user-images.githubusercontent.com/87827626/159175717-67237d6e-b59f-44f0-9758-61430e4f54ca.png)
+![Fragances](https://user-images.githubusercontent.com/87827626/159372008-29e337f5-a4ca-41bd-9c5f-ecd55288f8d7.png)
 
 ## Toys
-![Toys](https://user-images.githubusercontent.com/87827626/159175809-7d5c5a6d-6a68-4432-a848-e7f900037754.png)
+![Toys](https://user-images.githubusercontent.com/87827626/159371234-f9512785-e7ee-471a-9767-be9998f05b70.png)
 
 ## Sign in / Sign up
-![Sign up, Sign in](https://user-images.githubusercontent.com/87827626/159175991-a7ea0529-20e3-4085-8cc7-86cbd4449ad4.png)
+![Sign up, sign in](https://user-images.githubusercontent.com/87827626/159371285-d26409fe-a333-4801-9fba-0812d7a7a3fa.png)
 
-## Profile
-![Profile1](https://user-images.githubusercontent.com/87827626/159176239-b535103d-6f45-4b3f-90fe-eecd3dce860d.png)
-![Profile2](https://user-images.githubusercontent.com/87827626/159176242-ec0a3d59-fe66-4e3c-806d-a3b0cf03ca53.png)
+## Profile  1/2
+![Profile 1](https://user-images.githubusercontent.com/87827626/159371315-12765cca-7730-4899-bb5b-b146736c358f.png)
+
+## Profile 2/2
+![Profile 2](https://user-images.githubusercontent.com/87827626/159372260-a416a41d-3364-41e4-922f-fc44872d1181.png)
 
 ## Gift details
-![Details](https://user-images.githubusercontent.com/87827626/159176307-392c848e-18a3-4d1c-b9fb-b94d7bd80db7.png)
+![Details](https://user-images.githubusercontent.com/87827626/159371389-054b14a9-fb85-4c4b-b635-5a69e4bd0f3b.png)
 
 ## Edit gift
-![Edit](https://user-images.githubusercontent.com/87827626/159176344-a27d5d4b-96d9-4060-9853-ac9c8724e1d6.png)
+![Edit](https://user-images.githubusercontent.com/87827626/159371433-10a7aac7-1cb8-4315-a5e0-774055886df5.png)
 
 ## Trades page
-![Trades page](https://user-images.githubusercontent.com/87827626/159176401-c2fca3d2-6de9-4245-ae08-936dfd8b79f3.png)
+![Trades page](https://user-images.githubusercontent.com/87827626/159371516-43ba4ed2-e17b-40b0-9e4a-dc5a26d05237.png)
