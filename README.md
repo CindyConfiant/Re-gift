@@ -36,19 +36,22 @@ You can use these credentials:
 ## Toys
 ![Toys](https://user-images.githubusercontent.com/87827626/159371234-f9512785-e7ee-471a-9767-be9998f05b70.png)
 
-## Sign in / Sign up
-![Sign up, sign in](https://user-images.githubusercontent.com/87827626/159371285-d26409fe-a333-4801-9fba-0812d7a7a3fa.png)
+## Sign in / Sign up (wrong password example)
+![Wrong password](https://user-images.githubusercontent.com/87827626/159374147-f4f457a9-423e-4fd5-a7b5-febb97f6ed44.png)
 
 ## Profile  1/2
 ![Profile 1](https://user-images.githubusercontent.com/87827626/159371315-12765cca-7730-4899-bb5b-b146736c358f.png)
 
-## Profile 2/2
+## Profile 2/2 (READ & DELETE gift)
 ![Profile 2](https://user-images.githubusercontent.com/87827626/159372260-a416a41d-3364-41e4-922f-fc44872d1181.png)
+
+## CREATE gift
+![add](https://user-images.githubusercontent.com/87827626/159374245-ec09881a-7ed0-47c4-b4d2-78940dd8864b.png)
 
 ## Gift details
 ![Details](https://user-images.githubusercontent.com/87827626/159371389-054b14a9-fb85-4c4b-b635-5a69e4bd0f3b.png)
 
-## Edit gift
+## UPDATE gift
 ![Edit](https://user-images.githubusercontent.com/87827626/159371433-10a7aac7-1cb8-4315-a5e0-774055886df5.png)
 
 ## Trades page
